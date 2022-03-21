@@ -6,26 +6,25 @@
           <v-card class="mx-auto" max-width="450">
             <v-img
               class="white--text align-end"
-              :aspect-ratio="16/9"
                 width="450px"
               height="200px"
-              src="S:\4400\portfolio\src\pyramid.png"
+              src="https://github.com/mrusse54/4400/blob/main/portfolio/src/pyramid.png?raw=true"
             >
               <v-card-title>2214 pyramid scheme</v-card-title>
             </v-img>
 
-            <v-card-subtitle class="pb-0"> Number 10 </v-card-subtitle>
+            <v-card-subtitle class="pb-0 indigo accent-3 #3D5AFE"> Assignment 4 </v-card-subtitle>
 
-            <v-card-text class="text--primary">
-              <div>Whitehaven Beach</div>
+            <v-card-text class="text--primary indigo accent-3 #3D5AFE">
+              <div>Multi-node tree</div>
 
-              <div>Whitsunday Island, Whitsunday Islands</div>
+              <div>Representative of a real pyramid scheme</div>
             </v-card-text>
 
-            <v-card-actions>
-              <v-btn color="orange" text> Share </v-btn>
-
-              <v-btn color="orange" text> Explore </v-btn>
+            <v-card-actions class="indigo accent-3 #3D5AFE">
+              <v-btn color="black" 
+              text
+              to="https://github.com/mrusse54/mrusse54-2214-Assignment-4"> github </v-btn>
             </v-card-actions>
           </v-card>
         </v-column>
@@ -228,8 +227,14 @@
 export default {
   metaInfo: {
     title: "About us",
+  }, data() {
+    return {
+      items: [
+       { link :to="item.path" }
+      ]
+    };
   },
-};
+  }
 </script>
 
 <style >
@@ -248,4 +253,9 @@ export default {
 #double {
   margin-top: -380px;
 }
+
+.v-card__title{
+  color:black;
+}
+
 </style>
