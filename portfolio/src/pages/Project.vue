@@ -8,7 +8,7 @@
               class="white--text align-end"
                 width="450px"
               height="200px"
-              src="https://github.com/mrusse54/4400/blob/main/portfolio/src/pyramid.png?raw=true"
+              src="mdi-account"
             >
               <v-card-title>2214 pyramid scheme</v-card-title>
             </v-img>
@@ -40,21 +40,19 @@
               height="200px"
               src="https://cdn.vuetifyjs.com/images/cards/docks.jpg"
             >
-              <v-card-title>1212 project 1</v-card-title>
+              <v-card-title>1212 five options</v-card-title>
             </v-img>
 
-            <v-card-subtitle class="pb-0"> Number 10 </v-card-subtitle>
+            <v-card-subtitle class="pb-0 indigo accent-3 #3D5AFE"> Project 1 </v-card-subtitle>
 
-            <v-card-text class="text--primary">
-              <div>Whitehaven Beach</div>
+            <v-card-text class="text--primary indigo accent-3 #3D5AFE">
+              <div>Scanner</div>
 
-              <div>Whitsunday Island, Whitsunday Islands</div>
+              <div>User picks 1 of 5 options that does a simple function</div>
             </v-card-text>
 
-            <v-card-actions>
-              <v-btn color="orange" text> Share </v-btn>
-
-              <v-btn color="orange" text> Explore </v-btn>
+            <v-card-actions class="indigo accent-3 #3D5AFE">
+              <v-btn color="black" text href="https://github.com/mrusse54/1212-Assignment-1"> Github </v-btn>
             </v-card-actions>
           </v-card>
         </v-column>
@@ -68,21 +66,20 @@
               height="200px"
               src="https://cdn.vuetifyjs.com/images/cards/docks.jpg"
             >
-              <v-card-title>Top 10 Australian beaches</v-card-title>
+              <v-card-title>2214 shopping cart</v-card-title>
             </v-img>
 
-            <v-card-subtitle class="pb-0"> Number 10 </v-card-subtitle>
+            <v-card-subtitle class="pb-0 indigo accent-3 #3D5AFE"> Assignment 1 </v-card-subtitle>
 
-            <v-card-text class="text--primary">
-              <div>Whitehaven Beach</div>
+            <v-card-text class="text--primary indigo accent-3 #3D5AFE">
+              <div>Array list</div>
 
-              <div>Whitsunday Island, Whitsunday Islands</div>
+              <div>Creating shopping cart using array list</div>
             </v-card-text>
 
-            <v-card-actions>
-              <v-btn color="orange" text> Share </v-btn>
+            <v-card-actions class="indigo accent-3 #3D5AFE">
+              <v-btn color="black" text href="https://github.com/mrusse54/2214-assignment-1"> Github </v-btn>
 
-              <v-btn color="orange" text> Explore </v-btn>
             </v-card-actions>
           </v-card>
         </v-column>
@@ -94,21 +91,19 @@
               height="580px"
               src="https://cdn.vuetifyjs.com/images/cards/docks.jpg"
             >
-              <v-card-title>Top 10 Australian beaches</v-card-title>
+              <v-card-title>A* Search</v-card-title>
             </v-img>
 
-            <v-card-subtitle class="pb-0"> Number 10 </v-card-subtitle>
+            <v-card-subtitle class="pb-0 indigo accent-3 #3D5AFE"> Programming Project #2 - A* Search </v-card-subtitle>
 
-            <v-card-text class="text--primary">
-              <div>Whitehaven Beach</div>
+            <v-card-text class="text--primary indigo accent-3 #3D5AFE">
+              <div>Manhattan method</div>
 
-              <div>Whitsunday Island, Whitsunday Islands</div>
+              <div>Using A* search to find the shortest path</div>
             </v-card-text>
 
-            <v-card-actions>
-              <v-btn color="orange" text> Share </v-btn>
-
-              <v-btn color="orange" text> Explore </v-btn>
+            <v-card-actions class="indigo accent-3 #3D5AFE">
+              <v-btn color="black" text href="https://github.com/mrusse54/A-Search"> Github </v-btn>
             </v-card-actions>
           </v-card>
         </v-column>
@@ -120,21 +115,19 @@
               height="200px"
               src="https://cdn.vuetifyjs.com/images/cards/docks.jpg"
             >
-              <v-card-title>Top 10 Australian beaches</v-card-title>
+              <v-card-title>1212 String manipulation</v-card-title>
             </v-img>
 
-            <v-card-subtitle class="pb-0"> Number 10 </v-card-subtitle>
+            <v-card-subtitle class="pb-0 indigo accent-3 #3D5AFE"> Project 2 </v-card-subtitle>
 
-            <v-card-text class="text--primary">
-              <div>Whitehaven Beach</div>
+            <v-card-text class="text--primary indigo accent-3 #3D5AFE">
+              <div>Strings</div>
 
-              <div>Whitsunday Island, Whitsunday Islands</div>
+              <div>10 options to perform manipulation on user inputted string</div>
             </v-card-text>
 
-            <v-card-actions>
-              <v-btn color="orange" text> Share </v-btn>
-
-              <v-btn color="orange" text> Explore </v-btn>
+            <v-card-actions class="indigo accent-3 #3D5AFE">
+              <v-btn color="black" text href="https://github.com/mrusse54/1212-Assignment-2"> Github </v-btn>
             </v-card-actions>
           </v-card>
         </v-column>
@@ -148,21 +141,21 @@
               height="200px"
               src="https://cdn.vuetifyjs.com/images/cards/docks.jpg"
             >
-              <v-card-title>Top 10 Australian beaches</v-card-title>
+              <v-card-title>Client website</v-card-title>
             </v-img>
 
-            <v-card-subtitle class="pb-0"> Number 10 </v-card-subtitle>
+            <v-card-subtitle class="pb-0 indigo accent-3 #3D5AFE"> Final project </v-card-subtitle>
 
-            <v-card-text class="text--primary">
-              <div>Whitehaven Beach</div>
+            <v-card-text class="text--primary indigo accent-3 #3D5AFE">
+              <div>HTML CSS and JavaScript</div>
 
-              <div>Whitsunday Island, Whitsunday Islands</div>
+              <div>Website built with HTML CSS and JavaScript</div>
             </v-card-text>
 
-            <v-card-actions>
-              <v-btn color="orange" text> Share </v-btn>
+            <v-card-actions class="indigo accent-3 #3D5AFE">
+              <v-btn color="black" text href="https://github.com/mrusse54/mrusse54.github.io/tree/main/itis3135/projects"> Github </v-btn>
 
-              <v-btn color="orange" text> Explore </v-btn>
+              
             </v-card-actions>
           </v-card>
         </v-column>
@@ -174,21 +167,20 @@
               height="200px"
               src="https://cdn.vuetifyjs.com/images/cards/docks.jpg"
             >
-              <v-card-title>Top 10 Australian beaches</v-card-title>
+              <v-card-title>Eight-Queens</v-card-title>
             </v-img>
 
-            <v-card-subtitle class="pb-0"> Number 10 </v-card-subtitle>
+            <v-card-subtitle class="pb-0 indigo accent-3 #3D5AFE">Programming Project #1 - Eight Queens </v-card-subtitle>
 
-            <v-card-text class="text--primary">
-              <div>Whitehaven Beach</div>
+            <v-card-text class="text--primary indigo accent-3 #3D5AFE">
+              <div>Hill-Climbing algorithm with random restarts</div>
 
-              <div>Whitsunday Island, Whitsunday Islands</div>
+              <div>Places 8 queens on an 8x8 board where none of the queens are in conflict with each other. </div>
             </v-card-text>
 
-            <v-card-actions>
-              <v-btn color="orange" text> Share </v-btn>
+            <v-card-actions class="indigo accent-3 #3D5AFE">
+              <v-btn color="black" text href="https://github.com/mrusse54/Eight-Queens/tree/main"> Github </v-btn>
 
-              <v-btn color="orange" text> Explore </v-btn>
             </v-card-actions>
           </v-card>
         </v-column>
@@ -200,21 +192,21 @@
               height="200px"
               src="https://cdn.vuetifyjs.com/images/cards/docks.jpg"
             >
-              <v-card-title>Top 10 Australian beaches</v-card-title>
+              <v-card-title>1212 Movie tickets</v-card-title>
             </v-img>
 
-            <v-card-subtitle class="pb-0"> Number 10 </v-card-subtitle>
+            <v-card-subtitle class="pb-0 indigo accent-3 #3D5AFE"> Project 3 </v-card-subtitle>
 
-            <v-card-text class="text--primary">
-              <div>Whitehaven Beach</div>
+            <v-card-text class="text--primary indigo accent-3 #3D5AFE">
+              <div>String Array</div>
 
-              <div>Whitsunday Island, Whitsunday Islands</div>
+              <div>Movie ticket checkout</div>
             </v-card-text>
 
-            <v-card-actions>
-              <v-btn color="orange" text> Share </v-btn>
+            <v-card-actions class="indigo accent-3 #3D5AFE">
+              <v-btn color="black" text href="https://github.com/mrusse54/1212-Assignment-3"> Github </v-btn>
 
-              <v-btn color="orange" text> Explore </v-btn>
+              
             </v-card-actions>
           </v-card>
         </v-column>
