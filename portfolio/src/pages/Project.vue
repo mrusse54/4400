@@ -6,10 +6,12 @@
           <v-card class="mx-auto" max-width="450">
             <v-img
               class="white--text align-end"
+              :aspect-ratio="16/9"
+                width="450px"
               height="200px"
-              src="https://cdn.vuetifyjs.com/images/cards/docks.jpg"
+              src="S:\4400\portfolio\src\pyramid.png"
             >
-              <v-card-title>1212 project 1</v-card-title>
+              <v-card-title>2214 pyramid scheme</v-card-title>
             </v-img>
 
             <v-card-subtitle class="pb-0"> Number 10 </v-card-subtitle>
