@@ -24,7 +24,7 @@
             <v-card-actions class="indigo accent-3 #3D5AFE">
               <v-btn color="black" 
               text
-              to="https://github.com/mrusse54/mrusse54-2214-Assignment-4"> github </v-btn>
+              href="https://github.com/mrusse54/mrusse54-2214-Assignment-4"> github </v-btn>
             </v-card-actions>
           </v-card>
         </v-column>
@@ -226,13 +226,7 @@
 <script>
 export default {
   metaInfo: {
-    title: "About us",
-  }, data() {
-    return {
-      items: [
-       { link :to="item.path" }
-      ]
-    };
+    title: "Project",
   },
   }
 </script>
