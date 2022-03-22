@@ -8,7 +8,7 @@
               class="white--text align-end"
                
               height="200px"
-              src="https://raw.githubusercontent.com/mrusse54/4400/cffb8c7fc853df7faded6b675d3f4848b3598b30/portfolio/src/assignment4%20code%20peice.PNG"
+              src="https://cdn.vuetifyjs.com/images/cards/docks.jpg"
             >
               <v-card-title text=" indigo accent-3 #3D5AFE">2214 pyramid scheme</v-card-title>
             </v-img>
@@ -22,8 +22,7 @@
             </v-card-text>
 
             <v-card-actions class="indigo accent-3 #3D5AFE">
-              <v-btn color="black" 
-              text
+              <v-btn color="white" 
               href="https://github.com/mrusse54/mrusse54-2214-Assignment-4"> github </v-btn>
             </v-card-actions>
           </v-card>
@@ -52,7 +51,7 @@
             </v-card-text>
 
             <v-card-actions class="indigo accent-3 #3D5AFE">
-              <v-btn color="black" text href="https://github.com/mrusse54/1212-Assignment-1"> Github </v-btn>
+              <v-btn color="white"  href="https://github.com/mrusse54/1212-Assignment-1"> Github </v-btn>
             </v-card-actions>
           </v-card>
         </v-column>
@@ -78,7 +77,7 @@
             </v-card-text>
 
             <v-card-actions class="indigo accent-3 #3D5AFE">
-              <v-btn color="black" text href="https://github.com/mrusse54/2214-assignment-1"> Github </v-btn>
+              <v-btn color="white"  href="https://github.com/mrusse54/2214-assignment-1"> Github </v-btn>
 
             </v-card-actions>
           </v-card>
@@ -103,7 +102,7 @@
             </v-card-text>
 
             <v-card-actions class="indigo accent-3 #3D5AFE">
-              <v-btn color="black" text href="https://github.com/mrusse54/A-Search"> Github </v-btn>
+              <v-btn color="white"  href="https://github.com/mrusse54/A-Search"> Github </v-btn>
             </v-card-actions>
           </v-card>
         </v-column>
@@ -127,7 +126,7 @@
             </v-card-text>
 
             <v-card-actions class="indigo accent-3 #3D5AFE">
-              <v-btn color="black" text href="https://github.com/mrusse54/1212-Assignment-2"> Github </v-btn>
+              <v-btn color="white"  href="https://github.com/mrusse54/1212-Assignment-2"> Github </v-btn>
             </v-card-actions>
           </v-card>
         </v-column>
@@ -153,7 +152,7 @@
             </v-card-text>
 
             <v-card-actions class="indigo accent-3 #3D5AFE">
-              <v-btn color="black" text href="https://github.com/mrusse54/mrusse54.github.io/tree/main/itis3135/projects"> Github </v-btn>
+              <v-btn color="white"  href="https://github.com/mrusse54/mrusse54.github.io/tree/main/itis3135/projects"> Github </v-btn>
 
               
             </v-card-actions>
@@ -179,7 +178,7 @@
             </v-card-text>
 
             <v-card-actions class="indigo accent-3 #3D5AFE">
-              <v-btn color="black" text href="https://github.com/mrusse54/Eight-Queens/tree/main"> Github </v-btn>
+              <v-btn color="white" href="https://github.com/mrusse54/Eight-Queens/tree/main"> Github </v-btn>
 
             </v-card-actions>
           </v-card>
@@ -204,7 +203,7 @@
             </v-card-text>
 
             <v-card-actions class="indigo accent-3 #3D5AFE">
-              <v-btn color="black" text href="https://github.com/mrusse54/1212-Assignment-3"> Github </v-btn>
+              <v-btn color="white"  href="https://github.com/mrusse54/1212-Assignment-3"> Github </v-btn>
 
               
             </v-card-actions>
@@ -242,6 +241,14 @@ export default {
 
 .v-card__title{
   color: #3D5AFE;
+}
+
+.theme--light.v-card>.v-card__subtitle, .theme--light.v-card>.v-card__text{
+color: white;
+}
+
+.theme--light.v-application .text--primary {
+    color: rgba(255, 255, 255, 0.87)!important;
 }
 
 </style>
