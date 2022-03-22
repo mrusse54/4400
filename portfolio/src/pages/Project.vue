@@ -8,7 +8,7 @@
               class="white--text align-end"
                 width="450px"
               height="200px"
-              src="mdi-account"
+              src="https://github.com/mrusse54/4400/blob/main/portfolio/src/pyramidcash.PNG?raw=true"
             >
               <v-card-title>2214 pyramid scheme</v-card-title>
             </v-img>
