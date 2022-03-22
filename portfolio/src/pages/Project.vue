@@ -24,7 +24,7 @@
             <v-card-actions class="indigo accent-3 #3D5AFE">
               <v-btn color="black" 
               text
-              href="https://github.com/mrusse54/mrusse54-2214-Assignment-4"> github </v-btn>
+              href="https://github.com/mrusse54/4400/blob/main/portfolio/src/assignment4%20code%20peice.PNG?raw=true"> github </v-btn>
             </v-card-actions>
           </v-card>
         </v-column>
