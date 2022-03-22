@@ -3,14 +3,14 @@
     <v-container>
       <v-row>
         <v-column id="margin">
-          <v-card class="mx-auto" max-width="450">
+          <v-card class="mx-auto" width="450">
             <v-img
               class="white--text align-end"
-                width="450px"
+               
               height="200px"
               src="https://github.com/mrusse54/4400/blob/main/portfolio/src/pyramidcash.PNG?raw=true"
             >
-              <v-card-title>2214 pyramid scheme</v-card-title>
+              <v-card-title text=" indigo accent-3 #3D5AFE">2214 pyramid scheme</v-card-title>
             </v-img>
 
             <v-card-subtitle class="pb-0 indigo accent-3 #3D5AFE"> Assignment 4 </v-card-subtitle>
@@ -241,7 +241,7 @@ export default {
 }
 
 .v-card__title{
-  color:black;
+  color: #3D5AFE;
 }
 
 </style>
